@@ -6,7 +6,7 @@ Once you're in your project folder, you can run the following scripts:
 
 npm start
 This command runs your application in development mode.
-The app will be accessible in your browser at http://localhost:3000.
+
 
 The app will automatically reload whenever you make changes.
 Any errors or warnings will appear in the console.
